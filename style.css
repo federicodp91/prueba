@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.seccion-dos {
+    font-size: 2em;
+    border: 2px solid black;
+}
